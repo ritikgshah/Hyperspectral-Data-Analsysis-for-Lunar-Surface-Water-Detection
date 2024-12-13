@@ -1,0 +1,1 @@
+This repository containts the PDF version of my undergraduate thesis at the University of Massachusetts Amherst. It represents the work I undertook during my year long research experience with the Remote Hyperspectral Observation (RHO) group - University of Massachusetts Amherst, and NASA's Lunar Data Analysis Program (LDAP).
